@@ -219,9 +219,21 @@ input {
   margin-right: auto;
 }
 
+.width-70 {
+  width: 70%;
+  min-width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 table.fixed-columns {
     table-layout: fixed;
 //    width: 100%;
+}
+
+table.centered-bold {
+  text-align: center;
+  font-weight: bold;
 }
 
 table.centered-second-column tr td:nth-child(2) {
@@ -234,6 +246,13 @@ table.rtw-table {
     background-color: #E2EFD9;
     border-collapse: collapse;
 }
+
+/*
+** Special "No Background on First column" case
+*/
+
+table.no-first-column tr td:first-child { background: transparent; }
+table.no-first-column tr th:first-child { background: transparent; }
 
 table.rtw-table td, table.rtw-table th {
     border: 1px solid #AAAAAA;
