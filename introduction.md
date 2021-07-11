@@ -25,11 +25,11 @@ While the series has been many things over the years, *Breath of the Wild* (2017
 
 To play *Reclaim the Wild*, you only need:
 
-• One person to be the Game Master  
-• A group (3-5 people) to be Heroes  
-• Two six-sided dice per person  
-• Pencils and paper (or computers)  
-• And of course, this rulebook!
+- One person to be the Game Master  
+- A group (3-5 people) to be Heroes  
+- Two six-sided dice per person  
+- Pencils and paper (or computers)  
+- And of course, this rulebook!
 
 The *Reclaim the Wild* Core Rulebook contains all the rules you need to start playing, but how you approach it might depend on your familiarity with *Breath of the Wild* and with *Zelda* titles in general.
 

@@ -74,7 +74,7 @@ The Primary Races – Gerudo, Goron, Hylian, Rito, Sheikah, and Zora – are the
 
 The Secondary Races – Deku, Demon, Fairy, Subrosian, Talking Animal, and Twili – may or may not be available in your game world; be sure to consult with your GM before selecting one of these races for your character.
 
-You can read more about the various races in *Reclaim the Wild* – who they are, what they represent, and what they’re skilled at – in [](the Races chapter).
+You can read more about the various races in *Reclaim the Wild* – who they are, what they represent, and what they’re skilled at – in [the Races chapter]().
 
 ## Purchasing Traits
 
@@ -87,9 +87,9 @@ You may spend Tokens of Heroism to increase a Trait by a single point. The cost 
 
 All Traits max out at 10 – a person’s body simply cannot contain more skill than that naturally, though the use of food, elixirs or equipment can increase it further.
 
-See the [](Character Traits) chapter for more information on Traits and what they do.
+See the [Character Traits]() chapter for more information on Traits and what they do.
 
-## Trait Quick Purchase
+### Trait Quick Purchase
 
 Rather than buying your Traits one by one, you can instead use a Quick Purchase array. All of these arrays use all 80 Tokens exactly – just choose which Traits get which numbers!
 
@@ -105,12 +105,54 @@ Rather than buying your Traits one by one, you can instead use a Quick Purchase 
 
 **"Talented but Troublesome"** – Six Traits at 4, two Traits at 3, eight Traits at 2, and eight Traits at 1.
 
-> **TEST**  
-> This is a test of things
-> that I do on multiple lines
-
-> **TEST**  
-> This is a test of things
-> that I do on multiple lines
+> ***Health, Stamina, and Magic***  
+> Most Heroes should put some Tokens towards Health, and at least one of either Stamina or Magic. Even if you're aiming for a “glass cannon” character, it’s strongly recommended to put at least a few Tokens towards your Health! After all, nobody’s going to sing the praises of a Hero who fainted in pain after stubbing their toe on a table leg.
 {: .info-box}
 
+ ### That Last Remaining Point
+
+If you purchase Traits without using a Quick Purchase array, you may end up with a few Tokens that you simply can’t find a good place for. If you find yourself in that situation, there’s a simple trick that might help you use up those last few Tokens:
+
+- Find two Traits that currently have the same score: two 2’s, two 3’s, or two 4’s.
+- Subtract a point from one of those two Traits, gaining back the Tokens.
+- Increase the other Trait by 1, spending the Tokens you got back in the previous step, plus one. You now have exactly one less Token than you had before!
+
+With this technique, you should be able to spend every last Token you have available for Traits at character creation. However, if you just can’t find any place that feels appropriate for your character’s Tokens to go, speak with your GM – with their permission, you can simply hang on to the Tokens left over, and spend them later, when you’ve acquired a few more. GMs should be careful, though, as this could be used as a long-term way to minmax in the hands of a less scrupulous player.
+
+### Secondary Stats
+
+Once you’ve determined your Traits, you’ll need to fill in your secondary stats. This includes your Health, Stamina, and Magic, how well you resist negative effects, how far you can Jump, and how much you can Lift.
+
+See the [Secondary Stats]() section in the next Chapter for more information on how to fill in these numbers.
+
+### Movement Types
+
+All Heroes begin play able to walk and swim. They are Natural Walkers, meaning that they can move 6 squares on foot in a single round of combat. All Heroes are also (non-Natural) Climbers and Swimmers, enabling them to tread water or clamber up cliffs, but moving half as quickly as they would on land.
+
+Depending on your Race, you may be able to swim better than most, or even fly in the air!  
+Be sure to note these movement types down.
+
+See the [Movement]() section for more info.
+
+## Selecting Starting Equipment
+
+All Heroes start with a package of [Weapons](), [Armor](), and [Mundane Tools](). They may have:
+
+- Two Rank 1 Weapons, or a Rank 1 Weapon and two Rank 0 Weapons, or four Rank 0 Weapons.
+- AND, Two Rank 1 Armors, or one Rank 1 Armor and two Rank 1 pieces of Clothing, or four Rank 1 pieces of Clothing.
+- AND, Two Rank 1 Mundane Tools, or one Rank 1 Mundane Tool and two Rank 0 Mundane Tools, or four Rank 0 Tools. (2 Bombs may be substituted for a Rank 0 Tool, or 5 Bombs for a Rank 1 Tool.)
+
+Heroes who begin with Ranged weaponry also start their journey with ammo. If you begin with any Rank 1 Ranged weapons, you also have 10 Arrows. If you begin with only Rank 0 Ranged weapons, you instead have 5 Arrows.
+
+If you have a Feat that teaches you a Crafting Style, your Weapons may be made in that Crafting Style, unless the GM indicates otherwise. If your Hero has a backstory steeped in a particular race's culture, and your GM agrees, your initial weapons may be made in that race's Crafting Style as well.
+
+Heroes start with a Pack for free, to carry their starting gear and anything else they find Packs have different Pouches for different kinds of items, as per the table below.
+
+| Pouch Type  | Starting Slots |
+|-------------|----------------|
+| Weapons     | 5              |
+| Consumables | 5              |
+| Armor       | 3              |
+| Tools       | 3              |
+| Ammo Pouch  | 1              |
+{: .half-width .rtw-table .fixed-columns .centered-second-column }
