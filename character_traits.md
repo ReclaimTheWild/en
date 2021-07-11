@@ -162,10 +162,12 @@ When carrying a “burdened” load or less, each square you enter costs an addi
 When more than “burdened”, they cannot move at all, but can still lift the object off the ground.  
 If an object weighs so much that it exceeds the “2h Impossible” number (or exceeds 2h Burdened and the Hero has only one hand to spare), then the Hero cannot lift the object at all.
 
-| For this load... | 2h Impossible   | 2h Burdened    | 2h Easy / 1h Burdened | 1h Easy        |
-|------------------|-----------------|----------------|-----------------------|----------------|
-| The formula is:  | Athletics x 100 | Athletics x 75 | Athletics x 50        | Athletics x 25 |
-{: .rtw-table .no-first-column .fixed-columns }
+For each load, the formula is:
+
+| 2h Impossible   | 2h Burdened    | 2h Easy / 1h Burdened | 1h Easy        |
+|-----------------|----------------|-----------------------|----------------|
+| Athletics x 100 | Athletics x 75 | Athletics x 50        | Athletics x 25 |
+{: .rtw-table .fixed-columns .centered-bold .width-70 }
 
 | Athletics Rank        | 2h Impossible   | 2h Burdened    | 2h Easy / 1h Burdened | 1h Easy        |
 |-----------------------|-----------------|----------------|-----------------------|----------------|

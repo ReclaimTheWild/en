@@ -247,13 +247,6 @@ table.rtw-table {
     border-collapse: collapse;
 }
 
-/*
-** Special "No Background on First column" case
-*/
-
-table.no-first-column tr td:first-child { background: transparent; }
-table.no-first-column tr th:first-child { background: transparent; }
-
 table.rtw-table td, table.rtw-table th {
     border: 1px solid #AAAAAA;
     background-color: unset !important;
