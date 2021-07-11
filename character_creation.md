@@ -109,7 +109,7 @@ Rather than buying your Traits one by one, you can instead use a Quick Purchase 
 > Most Heroes should put some Tokens towards Health, and at least one of either Stamina or Magic. Even if you're aiming for a “glass cannon” character, it’s strongly recommended to put at least a few Tokens towards your Health! After all, nobody’s going to sing the praises of a Hero who fainted in pain after stubbing their toe on a table leg.
 {: .info-box}
 
- ### That Last Remaining Point
+### That Last Remaining Point
 
 If you purchase Traits without using a Quick Purchase array, you may end up with a few Tokens that you simply can’t find a good place for. If you find yourself in that situation, there’s a simple trick that might help you use up those last few Tokens:
 
@@ -155,4 +155,4 @@ Heroes start with a Pack for free, to carry their starting gear and anything els
 | Armor       | 3              |
 | Tools       | 3              |
 | Ammo Pouch  | 1              |
-{: .half-width .rtw-table .fixed-columns .centered-second-column }
+{: .rtw-table .fixed-columns .centered-second-column  .half-width }
