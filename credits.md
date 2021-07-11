@@ -12,11 +12,11 @@ nav_order: 3
 
 **Art Sourcing** assistance: Nintaku, Mr. Turnip 
 
-Please send comments, feedback, and concerns to [mail://reclaimthewildtabletop@gmail.com](ReclaimTheWildTabletop@GMail.com)
+Please send comments, feedback, and concerns to [ReclaimTheWildTabletop@GMail.com](mail://reclaimthewildtabletop@gmail.com)
 
 **Playtesters**: Aaron, Alan, Avara Sheridan, Chelsea, Corin CWStra, frigidScholar, Iki, Josh, Kain, Kaorin Sakura, Kayla, Lyle, Manavine, Marhatus, Muzok, Phila, Rini, Tali, Vader, xFalsewingzx
 
-**Fonts** used: [http://artsyomni.com/hyliaserif](Hylia Serif) (headers) and [https://www.reddit.com/r/zelda/comments/5txuba/breath_of_the_wild_ui_font/](Calamity Sans) (body text).
+**Fonts** used: [Hylia Serif](http://artsyomni.com/hyliaserif) (headers) and [Calamity Sans](https://www.reddit.com/r/zelda/comments/5txuba/breath_of_the_wild_ui_font/) (body text).
 
 **Mike would like to thank**: Chelsea, for your unending support and patience; Kaorin Sakura, for showing this can be done; the Pokémon Tabletop community, for being my home for years and 
 years – and the Returners’ Final Fantasy Tabletop community, for being my home before that.
@@ -28,4 +28,4 @@ Please support Nintendo’s official releases!
 
 # Website & Discord
 
-**For the latest on *Reclaim the Wild***, including ideas for your game and the latest version of these rules, visit [https://www.reclaimthewild.net/](ReclaimTheWild.net). You can also come say hello on [https://discord.gg/RMzwUgm](our Discord server)!
+**For the latest on *Reclaim the Wild***, including ideas for your game and the latest version of these rules, visit [ReclaimTheWild.net](https://www.reclaimthewild.net/). You can also come say hello on [our Discord server](https://discord.gg/RMzwUgm)!
