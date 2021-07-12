@@ -128,6 +128,7 @@ You may gain additional information about that particular foe or that foe’s sp
 **Nature**: Natural-born foes, such as plants and animals. Includes sub-sentient humanoid monsters. Examples: Bokoblin, Deku Baba, Gohma, Wolfos.
 
 | Rank 0 | Rank 1 | Rank 2 | Rank 3 | Rank 4 | Rank 5 | Obtained Information |
+|--------|--------|--------|--------|--------|--------|----------------------|
 | 0      | 2      | 4      | 6      | 8      | 10     | Name, Rank, Description
 | 2      | 4      | 6      | 8      | 10     | 12     | Typical Habitat & Diet, Intelligence, Typical Behavior |
 | 4      | 6      | 8      | 10     | 12     | 14     | Tactics, Properties, Weapons, Passive Abilities |
