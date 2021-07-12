@@ -236,6 +236,11 @@ table.centered-bold {
   font-weight: bold;
 }
 
+table.centered-first-column tr td {
+  text-align: center;
+  font-weight: bold;
+}
+
 table.centered-first-column tr td:first-child {
   text-align: center;
   font-weight: bold;
