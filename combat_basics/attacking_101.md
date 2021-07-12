@@ -122,7 +122,7 @@ This means that even some Heroes might be Large (such as particularly tall Gerud
 
 By default, a creature’s size merely describes how much room they take up in a corridor or on the battlefield – it does not, in and of itself, make them more or less deadly.
 
-{% include floating/image_center src="../assets/images/attack_ranges/size_comparison.png %}
+{% include floating/image_center src="../assets/images/attack_ranges/size_comparison.png" %}
 
 ## Abstract Combat Ranges
 
