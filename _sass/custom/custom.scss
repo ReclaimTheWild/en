@@ -231,6 +231,13 @@ table.fixed-columns {
 //    width: 100%;
 }
 
+table.small-rank-columns tr th, table.small-rank-columns tr td {
+  width: 10%;
+}
+table.small-rank-columns tr th:nth-child(7), table.small-rank-columns tr td:nth-child(7) {
+  width: 40%;
+}
+
 table.centered-bold {
   text-align: center;
   font-weight: bold;
