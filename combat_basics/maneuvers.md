@@ -135,4 +135,4 @@ You may gain additional information about that particular foe or that foe’s sp
 | 6      | 8      | 10     | 12     | 14     | 16     | Resistances, Vulnerabilities, Immunities, and Weak Points |
 | 8      | 10     | 12     | 14     | 16     | 18     | Full information on foe’s Attacks, Spells, Techniques |
 | 10     | 12     | 14     | 16     | 18     | 20     | Trait scores, hidden tricks, any remaining secrets |
-{: .rtw-table .centered-bold .small-ranks-columns }
+{: .rtw-table .centered-bold .small-rank-columns }
