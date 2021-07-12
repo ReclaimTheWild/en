@@ -46,33 +46,33 @@ If an Attack targets multiple foes, you must roll all To-Hit checks once for eac
 
 **Blast X**: A Blast is a square, X squares to a side, which has one side or corner touching the user.
 
-{% include floating/image_center src="../assets/images/attack_ranges/blast2.png" description="Blast 2" %}
+{% include floating/image_center src="../assets/images/attack_ranges/blast2.png" description="Blast 2" custom_width="30" %}
 
-{% include floating/image_center src="../assets/images/attack_ranges/blast3.png" description="Blast 3" %}
+{% include floating/image_center src="../assets/images/attack_ranges/blast3.png" description="Blast 3" custom_width="30" %}
 
 **Burst X**: A Burst is a ring that surrounds the user, X squares deep.
 
-{% include floating/image_center src="../assets/images/attack_ranges/burst1.png" description="Burst 1" %}
+{% include floating/image_center src="../assets/images/attack_ranges/burst1.png" description="Burst 1" custom_width="30" %}
 
 **Cone X**: A cone that extends out from the user. Every square it moves out, it also gets wider: If moving in a cardinal direction, it gets two squares wider (so a Cone 3 would be 1, 3, then 5 squares); in a diagonal direction, it gets one square wider (so a Cone 3 would be 1, 2, then 3 squares).
 
-{% include floating/image_center src="../assets/images/attack_ranges/cone2.png" description="Cone 2" %}
+{% include floating/image_center src="../assets/images/attack_ranges/cone2.png" description="Cone 2" custom_width="30" %}
 
-{% include floating/image_center src="../assets/images/attack_ranges/cone3.png" description="Cone 3" %}
+{% include floating/image_center src="../assets/images/attack_ranges/cone3.png" description="Cone 3" custom_width="30" %}
 
-{% include floating/image_center src="../assets/images/attack_ranges/cone3diag.png" description="Cone 3, diagonal" %}
+{% include floating/image_center src="../assets/images/attack_ranges/cone3diag.png" description="Cone 3, diagonal" custom_width="30" %}
 
 **Line X**: The attack goes in a straight line from the user, proceeding X many squares (counting diagonals 1-2-1). The attack affects *all* targets in this line, passing through combatants, but not through solid objects.
 
-{% include floating/image_center src="../assets/images/attack_ranges/line4.png" description="Line 4, horizontal" %}
+{% include floating/image_center src="../assets/images/attack_ranges/line4.png" description="Line 4, horizontal" custom_width="30" %}
 
-{% include floating/image_center src="../assets/images/attack_ranges/line4diag.png" description="Line 4, diagonal" %}
+{% include floating/image_center src="../assets/images/attack_ranges/line4diag.png" description="Line 4, diagonal" custom_width="30" %}
 
 **Melee**: The attack can affect one target, cardinally or diagonally adjacent to the user. The user must be able to physically reach out and touch the target, with either their hands or their chosen weapon, to perform a Melee attack.
 
 **Projectile X**: The attack can go up to X squares from you, but it cannot go through solid objects or other combatants. The attack can only affect one target, and stops after hitting the first.
 
-{% include floating/image_center src="../assets/images/attack_ranges/proj8.png" description="Projectile 8" %}
+{% include floating/image_center src="../assets/images/attack_ranges/proj8.png" description="Projectile 8" custom_width="30" %}
 
 Note how the other two enemies cannot be hit by the attack: one is hiding behind a block, and the other is hiding behind their less-fortunate front-row friend.
 
@@ -80,7 +80,7 @@ A final note on Projectiles: if *any* foe is adjacent to you, then *all* foes ar
 
 **Sweep X**: The attack cuts through X many squares immediately adjacent to the user. All squares must be cardinally adjacent to one another. The attack may not ‘double back’ on itself.
 
-{% include floating/image_center src="../assets/images/attack_ranges/sweep2.png" description="Sweep 2" %}
+{% include floating/image_center src="../assets/images/attack_ranges/sweep2.png" description="Sweep 2" custom_width="30" %}
 
 **Weapon**: The range of the attack is equal to the range of the weapon’s Basic Attack. If the weapon is capable of multiple types of Basic Attack, then you may choose which Basic Attack to base the attack’s range off of at the moment you make the attack.
 
@@ -88,7 +88,7 @@ A final note on Projectiles: if *any* foe is adjacent to you, then *all* foes ar
 
 The targets do not need to be adjacent to one another. The user does not need to have a direct line of sight on their targets, but they do need to know what square(s) they are in. Any other targets in range are unaffected. A target can only be affected once by this attack, even if they occupy multiple squares, unless they are a Swarm.
 
-{% include floating/image_center src="../assets/images/attack_ranges/xtargetsinrange.png" description="Any three of the foes within the red squares could be hit by a “3 Targets in 8 Squares” attack." %}
+{% include floating/image_center src="../assets/images/attack_ranges/xtargetsinrange.png" description="Any three of the foes within the red squares could be hit by a “3 Targets in 8 Squares” attack." custom_width="50" %}
 
 ## Counting Diagonals
 
@@ -122,7 +122,7 @@ This means that even some Heroes might be Large (such as particularly tall Gerud
 
 By default, a creature’s size merely describes how much room they take up in a corridor or on the battlefield – it does not, in and of itself, make them more or less deadly.
 
-{% include floating/image_center src="../assets/images/attack_ranges/size_comparison.png" %}
+{% include floating/image_center src="../assets/images/attack_ranges/size_comparison.png" custom_width="50" %}
 
 ## Abstract Combat Ranges
 

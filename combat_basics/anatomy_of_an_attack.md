@@ -8,4 +8,4 @@ nav_order: 3
 
 Whether it’s a simple swing of your sword, a complicated spell, or a daring technique, all attacks in Reclaim the Wild use similar formatting. Here, we’ll go over what each part of an attack means.
 
-{% include floating/image_center src="../assets/images/attack_ranges/attack_anatomy.png" %}
+{% include floating/image_center src="../assets/images/attack_ranges/attack_anatomy.png" custom_width="100" %}
