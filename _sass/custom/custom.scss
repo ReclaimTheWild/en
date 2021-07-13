@@ -285,6 +285,11 @@ table.centered-second-column tr td:nth-child(2) {
   font-weight: bold;
 }
 
+table.centered-third-column tr td:nth-child(3) {
+  text-align: center;
+  font-weight: bold;
+}
+
 table.rtw-table {
     border: 1px solid #538135;
     background-color: #E2EFD9;
@@ -308,6 +313,41 @@ table.rtw-table thead th {
     font-size: 15px;
     font-weight: bold;
     color: #FFFFFF;
+}
+
+table.rtw-table td, table.rtw-table th {
+  border: 1px solid #AAAAAA;
+  background-color: unset !important;
+  padding: 3px 2px;
+}
+table.rtw-table tr:nth-child(even) {
+  background: #C5E0B3;
+}
+
+table.rtw-table thead {
+  background: #538135;
+}
+
+table.rtw-table thead th {
+  font-size: 15px;
+  font-weight: bold;
+  color: #FFFFFF;
+}
+
+table.rtw-table-double-entry tr td:first-child {
+  background: #538135;
+  text-align: center;
+  font-size: 15px;
+  font-weight: bold;
+  color: #FFFFFF;
+}
+
+table.last-line-head tr:last-child {
+  background: #538135;
+  text-align: center;
+  font-size: 15px;
+  font-weight: bold;
+  color: #FFFFFF;
 }
 
 /*
