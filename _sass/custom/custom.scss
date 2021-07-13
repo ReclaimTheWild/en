@@ -246,6 +246,20 @@ table.small-rank-columns tr th:nth-child(7), table.small-rank-columns tr td:nth-
   max-width: 40%;
 }
 
+table.first-small-column {
+  table-layout: fixed;
+  width: 100%;
+}
+table.first-small-column tr th:first-child, table.first-small-column tr td:first-child {
+  width: 10%;
+  min-width: 10%;
+  max-width: 10%;
+}
+
+.centered {
+  text-align: center;
+}
+
 table.centered-bold {
   text-align: center;
   font-weight: bold;
