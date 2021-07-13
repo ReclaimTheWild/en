@@ -301,7 +301,7 @@ When a Monster Part, Food Ingredient, Critter, Dish, or Elixir is obtained from 
 
 If you ever smash a clay pot, and want to randomly determine what’s inside it, just use the table below! Roll 2d6 to determine the row, and another 1d6 to determine the column.
 
-| x  | 1            | 2            | 3            | 4            | 5            | 6            |
+|    | 1            | 2            | 3            | 4            | 5            | 6            |
 |----|--------------|--------------|--------------|--------------|--------------|--------------|
 | 2  | M. Part, R0  | M. Part, R0  | M. Part, R0  | M. Part, R1  | M. Part, R1  | M. Part, R2  |
 | 3  | Elixir, R0   | Elixir, R0   | Elixir, R0   | Elixir, R1   | Elxir, R1    | Elixir, R2   |
@@ -314,5 +314,5 @@ If you ever smash a clay pot, and want to randomly determine what’s inside it,
 | 10 | Candle       | Flint        | Firewood     | Nail         | Oil          | Soap         |
 | 11 | Dish, R0     | Dish, R0     | Dish, R0     | Dish, R1     | Dish, R1     | Dish, R2     |
 | 12 | Material, R0 | Material, R0 | Material, R0 | Material, R1 | Material, R1 | Material, R2 |
-{: .rtw-table .fixed-columns .centered-bold }
+{: .rtw-table .fixed-columns .first-small-column .centered-bold }
 
