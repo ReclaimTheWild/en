@@ -129,7 +129,7 @@ Bombs can be crafted without tools or access to a forge. When you craft Bombs, s
 | 3    | 4  | 5  | 6  | 8  | 14 | 24 |
 | 4    | 10 | 11 | 12 | 14 | 20 | 30 |
 | 5    | 20 | 21 | 22 | 24 | 30 | 40 |
-{: .rtw-table .rtw-table-double-entry .centered-bold .half-width }
+{: .rtw-table .rtw-table-double-entry .centered-bold .fixed-columns .half-width }
 
 To craft Bombchu, Fireworks, Remote Bombs, or Step-Mines, you must consume two units of Metal. You transform a number of Bombs into the selected type of Bomb based on the Ranks of the Metal Materials used, as per the table above. The Rank of the Metal you use is capped at (your base Mechanics / 2, rounded down).
 

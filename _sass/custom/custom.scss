@@ -261,6 +261,16 @@ table.first-small-column tr th:first-child, table.first-small-column tr td:first
   max-width: 10%;
 }
 
+table.second-small-column {
+  table-layout: fixed;
+  width: 100%;
+}
+table.second-small-column tr th:nth-child(2), table.first-small-column tr td:nth-child(2) {
+  width: 10%;
+  min-width: 10%;
+  max-width: 10%;
+}
+
 .centered {
   text-align: center;
 }

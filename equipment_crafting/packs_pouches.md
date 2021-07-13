@@ -55,7 +55,7 @@ The *Rank* of Materials required is equal to (Number of slots the pouch currentl
 
 Upgrading a Pouch does *not* require access to a Forge. A Pouch cannot have more than 30 slots to it
 
-| SLOTS | \# MATS | RANK of MATS |
+| SLOTS | <span>#</span> MATS | RANK of MATS |
 |-------|--------|--------------|
 | 1     | 1      | 0            |
 | 2     | 2      | 0            |

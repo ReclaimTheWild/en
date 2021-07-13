@@ -60,7 +60,7 @@ Once you’ve made your weapon, you may also describe and name it, if you like!
 
 *Ranks & Base Stats*
 
-| Rank | Attack Power | Durability | \# Mats Needed |
+| Rank | Attack Power | Durability | <span>#</span> Mats Needed |
 |------|--------------|------------|---------------|
 | 0    | 3            | 3          | 5             |
 | 1    | 6            | 6          | 5             |
