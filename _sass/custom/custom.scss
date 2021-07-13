@@ -231,6 +231,11 @@ table.fixed-columns {
 //    width: 100%;
 }
 
+table.fixed-columns-100 {
+  table-layout: fixed;
+  width: 100%;
+}
+
 table.small-rank-columns {
   table-layout: fixed;
   width: 100%;

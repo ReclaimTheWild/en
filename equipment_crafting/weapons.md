@@ -60,7 +60,7 @@ Once you’ve made your weapon, you may also describe and name it, if you like!
 
 *Ranks & Base Stats*
 
-| Rank | Attack Power | Durability | # Mats Needed |
+| Rank | Attack Power | Durability | &#35; Mats Needed |
 |------|--------------|------------|---------------|
 | 0    | 3            | 3          | 5             |
 | 1    | 6            | 6          | 5             |
@@ -91,7 +91,7 @@ Once you’ve made your weapon, you may also describe and name it, if you like!
 | Spear      | 4   | -1  | +1  | Piercing  | 2     | Melee  | Long, Sweeping |
 | Staff      | 2   | +1  | +1  | Blunt     | 2     | Arcane | Wizardly       |
 | Sword      | 3   | +0  | +0  | Sharp     | 1     | Melee  |                |
-{: .rtw-table }
+{: .rtw-table .fixed-columns-100 }
 
 *All types of Weapons may be Thrown.*
 

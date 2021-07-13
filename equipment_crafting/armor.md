@@ -52,7 +52,7 @@ Defense provided by a piece of Armor or Clothing of a given Rank:
 | Light    | 1      | 2      | 3      | 4      | 5      | 6      |
 | Medium   | 2      | 3      | 4      | 5      | 6      | 7      |
 | Heavy    | 3      | 4      | 5      | 6      | 7      | 8      |
-{: .rtw-table .centered-bold .fixed-columns }
+{: .rtw-table .centered-bold .fixed-columns-100 }
 
 Number of Materials to craft armor:
 
@@ -60,7 +60,7 @@ Number of Materials to craft armor:
 |------------|--------|--------|--------|--------|--------|--------|
 | Civilian   | 5      | 5      | 5      | 5      | 5      | 5      |
 | All Others | 10     | 10     | 10     | 10     | 10     | 10     |
-{: .rtw-table .centered-bold .fixed-columns }
+{: .rtw-table .centered-bold .fixed-columns-100 }
 
 ## Buying and Selling Armor
 

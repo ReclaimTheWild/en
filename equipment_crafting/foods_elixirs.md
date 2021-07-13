@@ -172,4 +172,4 @@ If there is ever a need to randomly determine a Dish, Elixir, Food Ingredient, o
 | 4 | Magical | Chilly     | Fireproof | Musical     | Fortified   | Tough      |
 | 5 | Magical | Dried      | Spongy    | Sneaky      | Scholarly   | Hasty      |
 | 6 | Magical | Moist      | Toasty    | Steamed     | Subtle      | Mighty     |
-{: .rtw-table .small-first-column .centered-first-column .centered }
+{: .rtw-table .first-small-column .centered-first-column }
