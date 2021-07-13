@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Mounts & Companions
-has_children: true
 permalink: /mounts_companions
 nav_order: 14
 ---
@@ -63,3 +62,70 @@ Roleplaying the gaining of a Companion is suggested for sentient or near-sentien
 | Target does not have others it can depend on (is an orphan, has travelled from far away, etc.) | -4 |
 | The target has included you in their customs, and you have embraced and respected them. | -4 |
 {: .rtw-table .second-small-column .centered-second-column }
+
+Many other factors might come into play; the GM is free to add modifiers based on the target’s past experience, recent events, and the Hero’s own actions.
+
+If the Hero fails the recruitment check, the target is unconvinced. They may run away, retaliate, or they may simply stay put, curious, and allow the Hero to try again. However, Heroes may only try to recruit a given target once per day.
+
+Once a Companion accepts the Hero, they will follow the Hero as best as they can. However, if the Hero then tames another Companion, the first Companion may simply stay put where they are, or wander off on their own accord, based on the Companion’s temperament and circumstances.
+
+Companions are just like the monsters that Heroes fight on a day-to-day basis, right down to their stats. When a Hero tames a Companion, they retain all their Traits, Techniques, Spells, Feats, gear, and so on. 
+
+## Stabling Companions
+
+While Heroes can only have a single Companion with them at a time, they may still wish to take on more Companions than just one. They may also want to keep their Companions safely away from certain adventures.
+
+In large cities, and at roadside stables, Heroes can pay to register their Companions at a Stable. While boarded, Companions are kept safe and well-fed, though they may also be put to work at minor labor and other tasks. Animal companions are cared for, and sometimes put to work – horses might pull plows, dogs might herd sheep, and so forth.
+
+Sentient Companions are also put to menial work, but that may include singing songs and telling stories for other workers, being look-outs for trouble, or working as a bouncer against rowdy guests. For people on the run, or in the employ of great Heroes, staying at the Stable serves as a tradition – a time of relative peace, to gather one’s thoughts and stretch one’s legs.
+
+A Hero must pay 50 Rupees to register a Companion at a Stable. Once registered, the Companion can be boarded at any Stable, as often and as long as the Hero wishes.
+
+## Riding Companions
+
+Some Companions may qualify as mounts – for example, horses, sand seals, deer, and Loftwings, among many others. You may ride Companions that are larger than you, or Companions that are the same size as you and are specifically noted as Mountable.
+
+Mounting or Dismounting a Companion is a Minor Action.
+
+While mounted, you use your mount’s Movement as your own. 
+
+You share your mount’s space. When targeted by a Blast, Burst, Cone, Line, or Sweep, both you and your mount are hit by the attack. For single-target attacks, the attacker decides which of you to hit.
+
+## Equipping Companions
+
+If the species is quadrupedal or bipedal, they may have their own Pack, which can be upgraded and used just as yours would. 
+
+Having a Pack grants a Companion their own inventory, distinct and separate from yours. If you wish to use a Companion’s inventory, you must be within melee of (or atop) them.
+
+Companions, just like other Heroes and Monsters, have three equipment slots: Head, Torso, and Legs. If they are of a species that has hands, they can even equip weapons.
+
+When you put armor on a Companion that has natural Defense (not from their Race):
+- Reduce their natural Defense by (Companion's Rank + 1), minimum 0.
+- Increase their Evasion by 1 (because they lost that Defense).
+- Then apply the armor's Defense bonus and Evasion penalty (if any).
+
+You may Enchant Companions’ Natural Weapons. If using [Assist Mode]() rules, you may also upgrade their Natural Weapons.
+
+## Companions and Growth
+
+Whenever you spend Tokens of Heroism, you may also improve your Companions. For every 3 Tokens of Heroism you spend on yourself, all Companions currently sworn to your service **gain** 1 Token for themselves; your Companions may gain partial Tokens.  
+Keep track of these partial Tokens, as your Companions’ Tokens can accrue over multiple expenditures. You don’t need to spend all of your Hero’s Tokens in a great burst all at once! However, newly-hired Companions do *not* get the benefit of any Tokens you have spent in the past.
+
+The exact Feats, Spells, and Techniques that a Companion can learn may vary based on its species. Consult with your GM when purchasing Feats, Techniques, or Spells for your Companion. They may disallow certain purchases, for reasons of realism, tone, or compatibility - such as preventing an animal Companion from learning Crafting Styles, or denying a mage ally new Techniques.
+
+## Companions and Combat
+
+**Companions act on their Hero’s Initiative.**  
+In combat, a Hero and their Companions share the same set of actions. This means that both a Hero and their Companions can all move about, but between them, only one Standard and one Minor action may be had. (This includes individual Reactions – a Hero and their Companion can’t both use Deflect before the Hero’s next turn comes up.)
+
+By default, you and your Mount cannot use Spells, Techniques, or Combat Maneuvers while you are mounted. You and your Mount *can* use Basic Attacks, Miscellaneous and Social Maneuvers, and other actions.
+
+## Companions and Death
+
+Companions are not immortal – they can be killed, just like any monster. Just like Heroes, when a Companion reaches 0 Hit Points, they fall Helpless, and can be killed.
+
+However, Companions can be brought back to life. Rumors abound of shrines or Great Fairy springs that will return a lost Companion to life. This service costs 1,000 Rupees, however, so do not take it lightly. 
+
+The Companion in question can also refuse the resurrection. They may do this if they have found peace in the afterlife, if they have accomplished their goals in life, or if their treatment by the Heroes or by circumstance was particularly poor. In these cases, the money spent will be returned to the Heroes – and they may or may not learn the reason why the Companion refused the offer to return to life, as the Great Fairy likes.
+
+Further, such Great Fairies will also not perform resurrection services if the Companion was killed by the Hero directly – negligence is one thing, but malice is quite another. They may even be inspired to attack Heroes guilty of such heinous acts.

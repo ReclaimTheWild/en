@@ -37,6 +37,7 @@ Miscellaneous Tools have a Market Price of 6 Rupees, sell for 12 from shops, and
 | 3        | 12         |
 | 4        | 35         |
 | 5        | 100        |
+{: .rtw-table .fixed-columns .centered-bold .half-width }
 
 ### **Balloon**
 *(Monster Parts)*  
