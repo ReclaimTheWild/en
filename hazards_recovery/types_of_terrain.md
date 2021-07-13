@@ -3,7 +3,7 @@ layout: default
 title: Types of Terrain
 permalink: /hazards_recovery/types_of_terrain
 parent: Hazards & Recovery
-nav_order: 2
+nav_order: 5
 ---
 
 # Types of Terrain

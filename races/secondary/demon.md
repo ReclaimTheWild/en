@@ -34,7 +34,7 @@ Skin colors: Black, Blue, Gray, Red, White
 Eye colors: Any  
 Hair colors: Black, Gray, Red, White
 
-**Vulnerability**: : Light    
+**Vulnerability**: Light    
 **Bonuses**:  
 As a minor action, you may Bind (Magic) MP and (Stamina) SP, to transform from your humanoid countenance to your true demonic form. You may end your transformation as a Free Action during your turn, returning to your humanoid form.
 
