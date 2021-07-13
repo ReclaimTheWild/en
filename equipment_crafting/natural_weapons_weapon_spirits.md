@@ -27,6 +27,7 @@ In both cases, the Weapon can be Enchanted, per normal. But it also carries a sp
 **The weapon regenerates Durability** during every Extended Rest. The higher maximum Durability the weapon has, the more it regenerates, based on the chart below.
 
 | Rank | Weapon's Maximum Durability |||
+|------|-------------------------------|
 | 0    | 1          | 2-4    | 5+      |
 | 1    | 4 or less  | 5-7    | 8+      |
 | 2    | 7 or less  | 8-10   | 11+     |
@@ -34,7 +35,7 @@ In both cases, the Weapon can be Enchanted, per normal. But it also carries a sp
 | 4    | 13 or less | 14-16  | 17+     |
 | 5    | 18 or less | 19-21  | 22+     |
 |      | +1 DUR     | +2 DUR | +3 DUR  |
-{: .rtw-table .last-line-head .centered-bold .half-width }
+{: .rtw-table .fixed-columns .last-line-head .centered-bold .half-width }
 
 Finally, **the weapon cannot be broken.** If brought to 0 Durability, it is merely unusable until it recovers Durability from its next Extended Rest.
 

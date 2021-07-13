@@ -212,7 +212,7 @@ A Towel can absorb a significant amount of liquid (enough to fill a Bottle), and
 
 In addition, Towels can also be used as blankets, keeping a Hero warm in the cold. While used as a blanket, the Hero is Slowed and Cursed, but resists Coldsnap conditions by (Rank) steps. A Towel can only keep one Hero warm at a time.
 
-### Harvesting Tools
+## Harvesting Tools
 
 Harvesting Tools are a subcategory of Mundane Tools. Each Harvesting Tool is made with a particular type of Material, listed after its description, just like other Mundane Tools.
 
@@ -266,23 +266,23 @@ Magical Tools are typically not for sale. If they are, it’s from a single pers
 *Below are some examples of Magical Tools. Of course, GMs should feel free to invent their own! You can also [visit the website to find more additions](), like Magical Tools, new Rules, and even [the Master Sword]()!*
 {: .centered }
 
-### Hookshot
+### **Hookshot**
 One-Handed  
 **Description**: This mechanical cylinder has a grip on one end, and a grappling hook on the other. Curled inside its metal casing is a long metal chain. When the trigger is pulled, the hook fires straight ahead, grabbing onto whatever it hits, and attempts to retract.  
 **Effect**: Casts the *Ravio’s Hookshot* Spell, using Stamina instead of Magic.
 
-### Kingly Paraglider
+### **Kingly Paraglider**
 Two-Handed  
 **Description**: A large, lightweight wooden frame with a sturdy cloth stretched over it. The embroidered fabric catches the air with ease, but it’s difficult to hold on to it forever.  
 **Effect**: Makes the user a Natural Glider. While paragliding, you Spend 2 Stamina at the beginning of each of your turns. If you cannot Spend this Stamina, you let go of the Paraglider and begin falling.
 
-### Mask of the Healed Soul
+### **Mask of the Healed Soul**
 One-Handed (Special)  
 **Description**: This mask, looking like an average member of some Hyrulean race, came from a departed member of that clan whose soul has been healed of all mortal worries - leaving behind its physical shell, in the form of a mask.  
 **Effect**: This mask can be put on, or removed, as a Standard Action. Once put on, it does not occupy any equipment slot. While worn, your body changes to that of the person the mask is based on. You lose access to all of your Racial bonuses, Vulnerabilities, Feats, Spells, or Techniques.  
 In their place, you gain access to all Racial effects of the mask’s Race. If this includes Feats, Spells, or Techniques, those are chosen when the mask is first created.
 
-### Master Cycle Key
+### **Master Cycle Key**
 One-Handed  
 **Description**: An ancient magical key which summons a mechanical, wheeled mount. Despite its artificial nature, this mount requires food, just like any other.
 **Effect**: When used, the Key summons a Master Cycle – an Ancient motorcycle originally developed for the one true Hero. Using the Key again dispels the Master Cycle. The Master Cycle has 10 Movement, is a Natural Walker, and is unaffected by Slick Terrain. You may mount the Master Cycle as part of the summoning action.

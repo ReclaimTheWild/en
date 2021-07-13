@@ -8,7 +8,7 @@ nav_order: 4
 
 # Crafting Reference Chart
 
-| Item Type     | Required Tools             | Mat Types                               | &#35; Mats  |
+| Item Type     | Required Tools             | Mat Types                               | \# Mats  |
 |---------------|----------------------------|-----------------------------------------|---------|
 | Armor         | Forge                      | Ancient, Cloth, Metal,<br>Monster Parts | 10      |
 | Arrows        | -                          | Ancient, Wood                           | 1+      |
