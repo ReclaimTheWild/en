@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Changelog
-has_children: true
 permalink: /changelog
 nav_order: 20
 ---
