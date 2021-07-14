@@ -33,7 +33,7 @@ Skin colors: Brown, Light Orange, Red
 Eye colors: Brown, Black  
 Hair colors: Brown, Orange, White
 
-**Vulnerability**: Ice
+**Vulnerability**: Ice  
 **Bonuses**:
 - Treat Heatwave weather as four ranks lower when calculating its effect on you (minimum 0).
 - You can consume Metals as if they were Food ingredients of the same rank, including being able to eat Dishes made with those same Metals. (Metals do not contain special properties when cooked.)

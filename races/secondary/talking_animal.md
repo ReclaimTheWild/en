@@ -81,7 +81,7 @@ The origins of a Talking Animal name might be from any real-world language, givi
 - **Blind-Sense**: Through keen eyes or other senses, you can see just as well in the dark as in the light. In addition, when Blinded, you are merely Dazzled instead.
 - **Burrower**: You are capable of digging through solid earth with your bare hands. You may treat an empty hand as if it had a Shovel of Rank (base Fortitude / 2, rounded down). If your use would break a normal Shovel, you cannot dig until you take an Extended Rest.
 - **Cooperative**: You have a [Knack]({{ "/hazards_recovery/status_effects#knack" | absolute_url }}) for the Coordinate and Intercept Maneuvers. (If you Intercept for two allies at once, you still only take damage from the triggering attack once.)
-- **Ever-Ready**: You have more than two arms, a convenient pouch, or some other way to keep useful equipment close-at-hand. You have two additional [Belt Slots]().
+- **Ever-Ready**: You have more than two arms, a convenient pouch, or some other way to keep useful equipment close-at-hand. You have two additional [Belt Slots]({{ "/arming_yourself#sheathing-and-belt-items" | absolute_url }}).
 - **Leaper**: Increase your Jump capability, as if your Athletics was 2 points higher. In addition, increase your Movement by 1.
 - **Mount**: Increase your Lift capability, as if your Athletics was 2 points higher. You may be used as a Mount by another Hero.
 - **Mover**: Select one of Climbing, Flying, Gliding, or Swimming. You are a Natural at that movement type.
