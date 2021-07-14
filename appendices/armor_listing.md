@@ -92,24 +92,6 @@ The armor presented below is unenchanted, and without any particular cultural fl
 | Knight's Greaves   | 6       | 3    | Heavy    | Legs  | 400                  | 800                | 1600                  |
 {: .rtw-table .centered-bold .fixed-columns-100 }
 
-## Rank 3 Armor
-
-| Name               | Defense | Rank | Weight   | Slot  | Sell to<br>Vendor... | Market<br>Price... | Buy from<br>Vendor... |
-|--------------------|---------|------|----------|-------|----------------------|--------------------|-----------------------|
-| Knight's Cap       | 3       | 3    | Civilian | Head  | 200                  | 400                | 800                   |
-| Knight's Shirt     | 3       | 3    | Civilian | Torso | 200                  | 400                | 800                   |
-| Knight's Trousers  | 3       | 3    | Civilian | Legs  | 200                  | 400                | 800                   |
-| Knight's Mask      | 4       | 3    | Light    | Head  | 400                  | 800                | 1600                  |
-| Knight's Tunic     | 4       | 3    | Light    | Torso | 400                  | 800                | 1600                  |
-| Knight's Tights    | 4       | 3    | Light    | Legs  | 400                  | 800                | 1600                  |
-| Knight's Hood      | 5       | 3    | Medium   | Head  | 400                  | 800                | 1600                  |
-| Knight's Guard     | 5       | 3    | Medium   | Torso | 400                  | 800                | 1600                  |
-| Knight's Breeches  | 5       | 3    | Medium   | Legs  | 400                  | 800                | 1600                  |
-| Knight's Helm      | 6       | 3    | Heavy    | Head  | 400                  | 800                | 1600                  |
-| Knight's Cuirass   | 6       | 3    | Heavy    | Torso | 400                  | 800                | 1600                  |
-| Knight's Greaves   | 6       | 3    | Heavy    | Legs  | 400                  | 800                | 1600                  |
-{: .rtw-table .centered-bold .fixed-columns-100 }
-
 ## Rank 4 Armor
 
 | Name               | Defense | Rank | Weight   | Slot  | Sell to<br>Vendor... | Market<br>Price... | Buy from<br>Vendor... |
