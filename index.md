@@ -8,3 +8,5 @@ nav_order: 1
 # Home
 
 Welcome to the mirror of Reclaim the Wild's ruleset !
+
+Updated to: ***Reclaim the Wild v2.03***
