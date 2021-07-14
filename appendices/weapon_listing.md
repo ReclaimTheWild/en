@@ -26,7 +26,7 @@ Note that these Weapons are all unenchanted, and “sans Crafting Style”. To m
 |----------------------|-----|-----|-----|-------------|-------------------|-----------------|--------------------|
 | Makeshift Axe        | 2   | 6   | 3   | Axe         | 25                | 50              | 100                |
 | Makeshift Bat        | 4   | 5   | 2   | Bat         | 25                | 50              | 100                |
-| Makeshift Boomerang  | 4   | 2   | 2   | Bommerang   | 25                | 50              | 100                |
+| Makeshift Boomerang  | 4   | 2   | 2   | Boomerang   | 25                | 50              | 100                |
 | Makeshift Bow        | 4   | 3   | 4   | Bow         | 25                | 50              | 100                |
 | Makeshift Club       | 4   | 4   | 1   | Club        | 25                | 50              | 100                |
 | Makeshift Crossbow   | 4   | 3   | 3   | Crossbow    | 25                | 50              | 100                |
@@ -49,7 +49,7 @@ Note that these Weapons are all unenchanted, and “sans Crafting Style”. To m
 |-----------------------|-----|-----|-----|-------------|-------------------|-----------------|--------------------|
 | Traveler's Axe        | 2   | 9   | 6   | Axe         | 50                | 100             | 200                |
 | Traveler's Bat        | 4   | 8   | 5   | Bat         | 50                | 100             | 200                |
-| Traveler's Boomerang  | 4   | 5   | 5   | Bommerang   | 50                | 100             | 200                |
+| Traveler's Boomerang  | 4   | 5   | 5   | Boomerang   | 50                | 100             | 200                |
 | Traveler's Bow        | 4   | 6   | 7   | Bow         | 50                | 100             | 200                |
 | Traveler's Club       | 4   | 7   | 4   | Club        | 50                | 100             | 200                |
 | Traveler's Crossbow   | 4   | 6   | 6   | Crossbow    | 50                | 100             | 200                |
@@ -72,7 +72,7 @@ Note that these Weapons are all unenchanted, and “sans Crafting Style”. To m
 |----------------------|-----|-----|-----|-------------|-------------------|-----------------|--------------------|
 | Soldier's Axe        | 2   | 12  | 9   | Axe         | 100               | 200             | 400                |
 | Soldier's Bat        | 4   | 11  | 8   | Bat         | 100               | 200             | 400                |
-| Soldier's Boomerang  | 4   | 8   | 8   | Bommerang   | 100               | 200             | 400                |
+| Soldier's Boomerang  | 4   | 8   | 8   | Boomerang   | 100               | 200             | 400                |
 | Soldier's Bow        | 4   | 9   | 10  | Bow         | 100               | 200             | 400                |
 | Soldier's Club       | 4   | 10  | 7   | Club        | 100               | 200             | 400                |
 | Soldier's Crossbow   | 4   | 9   | 9   | Crossbow    | 100               | 200             | 400                |
@@ -95,7 +95,7 @@ Note that these Weapons are all unenchanted, and “sans Crafting Style”. To m
 |----------------------|-----|-----|-----|-------------|-------------------|-----------------|--------------------|
 | Knight's Axe         | 2   | 15  | 12  | Axe         | 200               | 400             | 800                |
 | Knight's Bat         | 4   | 14  | 11  | Bat         | 200               | 400             | 800                |
-| Knight's Boomerang   | 4   | 11  | 11  | Bommerang   | 200               | 400             | 800                |
+| Knight's Boomerang   | 4   | 11  | 11  | Boomerang   | 200               | 400             | 800                |
 | Knight's Bow         | 4   | 12  | 13  | Bow         | 200               | 400             | 800                |
 | Knight's Club        | 4   | 13  | 10  | Club        | 200               | 400             | 800                |
 | Knight's Crossbow    | 4   | 12  | 12  | Crossbow    | 200               | 400             | 800                |
@@ -118,7 +118,7 @@ Note that these Weapons are all unenchanted, and “sans Crafting Style”. To m
 |----------------------|-----|-----|-----|-------------|-------------------|-----------------|--------------------|
 | Royal Axe            | 2   | 18  | 15  | Axe         | 500               | 1000            | 2000               |
 | Royal Bat            | 4   | 17  | 14  | Bat         | 500               | 1000            | 2000               |
-| Royal Boomerang      | 4   | 14  | 14  | Bommerang   | 500               | 1000            | 2000               |
+| Royal Boomerang      | 4   | 14  | 14  | Boomerang   | 500               | 1000            | 2000               |
 | Royal Bow            | 4   | 15  | 16  | Bow         | 500               | 1000            | 2000               |
 | Royal Club           | 4   | 16  | 13  | Club        | 500               | 1000            | 2000               |
 | Royal Crossbow       | 4   | 15  | 15  | Crossbow    | 500               | 1000            | 2000               |
@@ -141,7 +141,7 @@ Note that these Weapons are all unenchanted, and “sans Crafting Style”. To m
 |----------------------|-----|-----|-----|-------------|-------------------|-----------------|--------------------|
 | Hero's Axe           | 2   | 23  | 20  | Axe         | 1000              | 2000            | 4000               |
 | Hero's Bat           | 4   | 22  | 19  | Bat         | 1000              | 2000            | 4000               |
-| Hero's Boomerang     | 4   | 19  | 19  | Bommerang   | 1000              | 2000            | 4000               |
+| Hero's Boomerang     | 4   | 19  | 19  | Boomerang   | 1000              | 2000            | 4000               |
 | Hero's Bow           | 4   | 20  | 21  | Bow         | 1000              | 2000            | 4000               |
 | Hero's Club          | 4   | 21  | 18  | Club        | 1000              | 2000            | 4000               |
 | Hero's Crossbow      | 4   | 20  | 20  | Crossbow    | 1000              | 2000            | 4000               |
@@ -160,7 +160,7 @@ Note that these Weapons are all unenchanted, and “sans Crafting Style”. To m
 
 ## Weapon Crafting Styles
 
-Reprinted from the [Crafting Styles]() section.
+Reprinted from the [Crafting Styles]({{ "/equipment_crafting/weapons#crafting-styles" | absolute_url }}) section.
 
 | Style          | ACC | ATK | DUR           | Material Cost | Additional Effect |
 |----------------|-----|-----|---------------|---------------|-------------------|

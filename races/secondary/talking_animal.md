@@ -76,18 +76,18 @@ The origins of a Talking Animal name might be from any real-world language, givi
 
 ## Talking Animal Racial Bonuses
 
-- **Armed**: You have naturally sharp claws, a protective shell, a magical horn, or some other animalistic accoutrement. You have a single [Natural]() Rank 1 one-handed weapon (like a Dagger, Rod, or Shield) in the Talking Animal style.
+- **Armed**: You have naturally sharp claws, a protective shell, a magical horn, or some other animalistic accoutrement. You have a single [Natural]({{ "/equipment_crafting/natural_weapons_weapon_spirits" | absolute_url }}) Rank 1 one-handed weapon (like a Dagger, Rod, or Shield) in the Talking Animal style.
 - **Armored**: You have naturally tough skin, chitinous hide, bony shell, or other protection. You have a natural Defense of (base Fortitude / 2, rounded down), in addition to the Defense of any Armor you wear. However, your Evasion is reduced by (base Fortitude / 4, rounded down).
 - **Blind-Sense**: Through keen eyes or other senses, you can see just as well in the dark as in the light. In addition, when Blinded, you are merely Dazzled instead.
 - **Burrower**: You are capable of digging through solid earth with your bare hands. You may treat an empty hand as if it had a Shovel of Rank (base Fortitude / 2, rounded down). If your use would break a normal Shovel, you cannot dig until you take an Extended Rest.
-- **Cooperative**: You have a [Knack]() for the Coordinate and Intercept Maneuvers. (If you Intercept for two allies at once, you still only take damage from the triggering attack once.)
+- **Cooperative**: You have a [Knack]({{ "/hazards_recovery/status_effects#knack" | absolute_url }}) for the Coordinate and Intercept Maneuvers. (If you Intercept for two allies at once, you still only take damage from the triggering attack once.)
 - **Ever-Ready**: You have more than two arms, a convenient pouch, or some other way to keep useful equipment close-at-hand. You have two additional [Belt Slots]().
 - **Leaper**: Increase your Jump capability, as if your Athletics was 2 points higher. In addition, increase your Movement by 1.
 - **Mount**: Increase your Lift capability, as if your Athletics was 2 points higher. You may be used as a Mount by another Hero.
 - **Mover**: Select one of Climbing, Flying, Gliding, or Swimming. You are a Natural at that movement type.
 - **Producer**: You can make honey, spin thread, or otherwise create useful materials. Select a Material type (except Ancient); this choice is permanent. Every Extended Rest, you may make up to (base Discipline / 3) units of that Material Type, of up to Rank (base Fortitude / 3). If you make Critters or Food Ingredients, they have the Healthy special effect.
 - **Ruminant**: You have multiple stomachs, cheeks that can hide away an entire meal, or can otherwise pack away food with no ill effects. You may consume a second Dish during every Short and Extended Rest. (You may still only have one Food Buff active at a time.)
-- **Scent-Sense**: Your nose can sniff out scents far better than most, allowing you to ‘see’ scents. You have a [Knack]() for Perception or Nature Trait Checks to find, track, or identify things by scent.
+- **Scent-Sense**: Your nose can sniff out scents far better than most, allowing you to ‘see’ scents. You have a [Knack]({{ "/hazards_recovery/status_effects#knack" | absolute_url }}) for Perception or Nature Trait Checks to find, track, or identify things by scent.
 - **Skilled**: You may select a single Spell or Technique, costing 3 Tokens and whose requirements you meet, to learn for free. This choice is permanent.
 - **Weather-Proof**: Select a single type of Weather. Treat that Weather as four ranks lower when calculating its effect on you (minimum 0).
 

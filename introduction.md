@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Introduction
-permalink: /changelog
+permalink: /introduction
 nav_order: 4
 ---
 

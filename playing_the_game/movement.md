@@ -63,7 +63,7 @@ If you lose your grip while climbing, you may begin to fall – or, depending on
 
 This means Heroes who are fighting foes while climbing cliffsides must be aware of what is – or isn’t! – in their hands at any particular moment. You may need to put your Greatsword away to clamber up a keep wall, or choose between your Crossbow or your Shield while battling enemies on a scarp.
 
-(See the [Sheathing and Belt Items]() section for more information on sheathing and unsheathing weapons in combat.)
+(See the [Sheathing and Belt Items]({{ "/arming_yourself#sheathing-and-belt-items" | absolute_url }}) section for more information on sheathing and unsheathing weapons in combat.)
 
 ## Flying
 

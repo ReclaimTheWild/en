@@ -27,7 +27,7 @@ To the right are listed the most common colors of Rupee, and their proscribed va
 {: .rtw-table .fixed-columns .centered-first-column .centered-second-column  .half-width }
 
 Just because Rupees have a set value, doesn’t mean you can’t get a good deal.  
-See the [Prices & Haggling]() section for info.
+See the [Prices & Haggling]({{ "/supply_demand/prices_haggling" | absolute_url }}) section for info.
 
 Though not magical in and of themselves, Rupees can serve as a conduit for some particularly obscure spells. Heroes have found puzzles in tombs that require them to pick up specific Rupees found in hard-toreach spots, rewarding them with both spending cash and progress through the dungeon. They have also found Rupoors, blackened corruptions of Rupees that magically remove money from one’s wallet when touched, before disappearing in a puff of spite. Finally, some esoteric Magical Tools might use their wielder’s Rupees, rather than their Magic or Stamina, to fuel their effects.
 

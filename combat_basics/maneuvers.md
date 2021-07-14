@@ -46,7 +46,7 @@ Combat Maneuvers have a range of Melee, unless otherwise noted.
 ### Pickpocket
 **Roll**: Accuracy and Agility v. Concentration  
 **Use Requirement**: At least one empty hand  
-**Effect**: Take an item – or stack of items - from the target's Belt or Pack (but not their hands). You must have enough empty hands to hold it. (To do this unnoticed, first [Sneak]() up to the target.)  
+**Effect**: Take an item – or stack of items - from the target's Belt or Pack (but not their hands). You must have enough empty hands to hold it. (To do this unnoticed, first [Sneak]({{ "/playing_the_game/movement#sneaking" | absolute_url }}) up to the target.)  
 **Special**: -4 to your roll if the foe is in combat or moving erratically.
 
 ### Push

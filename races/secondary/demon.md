@@ -43,12 +43,12 @@ As a minor action, you may Bind (Magic) MP and (Stamina) SP, to transform from y
 - You gain +1 on all Rolls To-Hit Vitality.
 - Whether or not you have wings in this form, you can fly and glide under your own power. However, Demons are not greatly skilled at flying or gliding, and are not Natural Fliers or Natural Gliders.
 - When you deal damage using Combat, add half your Willpower to the damage dealt. When you deal damage using Willpower, add half your Combat to the damage dealt.
-- You have a [Knack]() for the Menace, Push, and Taunt Maneuvers.
+- You have a [Knack]({{ "/hazards_recovery/status_effects#knack" | absolute_url }}) for the Menace, Push, and Taunt Maneuvers.
 
 **While in your humanoid form**:
 - You gain +2 Concentration.
 - You gain +1 on all Rolls To-Hit Concentration.
-- You have a [Knack]() for the Flirt, Low Blow, and Predict Maneuvers.
+- You have a [Knack]({{ "/hazards_recovery/status_effects#knack" | absolute_url }}) for the Flirt, Low Blow, and Predict Maneuvers.
 
 You gain one of the following Techniques or Spells for free: Doppelganger’s Movement (Technique), Dark Brambles (Spell), Threatening Blow (Technique), or Wrath's Whip (Spell). You have access to this Spell or Technique regardless of your current form.
 

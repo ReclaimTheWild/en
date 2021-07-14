@@ -28,7 +28,7 @@ If your To-Hit roll equals or exceeds the opponent’s score, then the attack or
 
 A missed attack acts essentially as if it never happened – no damage is dealt, no durability is lost, no effects are enacted upon the target or the user. (If the attack cost Magic or Stamina, however, then that cost is still spent.) If an attack’s Effect misses, then the attack still deals damage, but does not inflict that additional effect.
 
-If you roll a 12 on your 2d6 when rolling To-Hit with a Basic Attack, it is a Critical Hit. (See the [Critical Hits]() section for more information.) There are enchantments that can increase this range – if you have a +1 to your Critical Hit range, then a roll of 11 or 12 on your 2d6 would be a Critical Hit.
+If you roll a 12 on your 2d6 when rolling To-Hit with a Basic Attack, it is a Critical Hit. (See the [Critical Hits]({{ "/combat_basics/attacking_101#critical-hits" | absolute_url }}) section for more information.) There are enchantments that can increase this range – if you have a +1 to your Critical Hit range, then a roll of 11 or 12 on your 2d6 would be a Critical Hit.
 
 **Spells and Techniques automatically hit, except when other circumstances say otherwise** (such as being Distracted or Blinded). Spells and Techniques can still be mitigated by Reactions.
 

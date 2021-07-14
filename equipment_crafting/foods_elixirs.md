@@ -121,7 +121,7 @@ This can occur even if the item’s Point Value is less than 6.
 
 *While scouting out in the wilderness, Savelle the Hylian rogue makes a campfire to keep warm for the night. He's found several Hylian Shrooms (Rank 1, no effect) that day. He could eat one raw, and it would restore a single Hit Point. He decides instead to cook them; since he lacks a Cooking Vessel, he opts to roast them over a campfire, one at a time. Each Dish (a Roasted Mushroom) restores 2 HP when eaten.*
 
-*A few days (and one trip to a nearby town) later, Savelle has purchased a cast-iron wok (Rank 1 Cooking Vessel), which will allow him to cook more than one ingredient at a time over a fire. Since his Cooking Vessel is only Rank 1, it can only contain 3 ingredients at a time. (See the [Mundane Tools]() section.)*
+*A few days (and one trip to a nearby town) later, Savelle has purchased a cast-iron wok (Rank 1 Cooking Vessel), which will allow him to cook more than one ingredient at a time over a fire. Since his Cooking Vessel is only Rank 1, it can only contain 3 ingredients at a time. (See the [Mundane Tools]({{ "/equipment_crafting/tools#mundane-tools" | absolute_url }}) section.)*
 
 *This time, his scouting has found not only a Hearty Truffle (Rank 3, Hearty), but he catches some Armored Carp (Rank 2, Tough) in the nearby river, as well. With the Hylian Shrooms he still has from before, Savelle can make quite a nice spread!*
 
@@ -156,7 +156,7 @@ Be careful when selling cooked food to merchants – moreso than with raw ingred
 | Rank 5 | 30 | 200 | 400 | 800 |
 {: .rtw-table .fixed-columns .centered-bold }
 
-After buying a Dish or Elixir of a certain type, remember to check the “[Creating a Dish or Elixir]()” section to determine what it does, while using the Point Value indicated in the table above.
+After buying a Dish or Elixir of a certain type, remember to check the “[Creating a Dish or Elixir]({{ "/equipment_crafting/foods_elixirs#creating-a-dish-or-elixir" | absolute_url }})” section to determine what it does, while using the Point Value indicated in the table above.
 
 ## Random Consumable Effect
 

@@ -139,7 +139,7 @@ An item’s price is further modified by the remaining Durability of the Weapon 
 
 ## Crafting Styles
 
-Weapons can be crafted in a variety of styles, each born from the history and culture of a different race. Heroes can learn to craft in these styles by learning [Feats](). (See the Feats section for info.)
+Weapons can be crafted in a variety of styles, each born from the history and culture of a different race. Heroes can learn to craft in these styles by learning [Feats]({{ "/feats_spells_techniques/feats" | absolute_url }}). (See the Feats section for info.)
 
 Below is a reference table of Crafting Styles presented in this book, and their effects on weapons.
 

@@ -74,7 +74,7 @@ The Primary Races – Gerudo, Goron, Hylian, Rito, Sheikah, and Zora – are the
 
 The Secondary Races – Deku, Demon, Fairy, Subrosian, Talking Animal, and Twili – may or may not be available in your game world; be sure to consult with your GM before selecting one of these races for your character.
 
-You can read more about the various races in *Reclaim the Wild* – who they are, what they represent, and what they’re skilled at – in [the Races chapter]().
+You can read more about the various races in *Reclaim the Wild* – who they are, what they represent, and what they’re skilled at – in [the Races chapter]({{ "/races" | absolute_url }}).
 
 ## Purchasing Traits
 
@@ -87,7 +87,7 @@ You may spend Tokens of Heroism to increase a Trait by a single point. The cost 
 
 All Traits max out at 10 – a person’s body simply cannot contain more skill than that naturally, though the use of food, elixirs or equipment can increase it further.
 
-See the [Character Traits]() chapter for more information on Traits and what they do.
+See the [Character Traits]({{ "/character_traits" | absolute_url }}) chapter for more information on Traits and what they do.
 
 ### Trait Quick Purchase
 
@@ -123,7 +123,7 @@ With this technique, you should be able to spend every last Token you have avail
 
 Once you’ve determined your Traits, you’ll need to fill in your secondary stats. This includes your Health, Stamina, and Magic, how well you resist negative effects, how far you can Jump, and how much you can Lift.
 
-See the [Secondary Stats]() section in the next Chapter for more information on how to fill in these numbers.
+See the [Secondary Stats]({{ "/character_traits#secondary-stats" | absolute_url }}) section in the next Chapter for more information on how to fill in these numbers.
 
 ### Movement Types
 
@@ -132,11 +132,11 @@ All Heroes begin play able to walk and swim. They are Natural Walkers, meaning t
 Depending on your Race, you may be able to swim better than most, or even fly in the air!  
 Be sure to note these movement types down.
 
-See the [Movement]() section for more info.
+See the [Movement]({{ "/playing_the_game/movement" | absolute_url }}) section for more info.
 
 ## Selecting Starting Equipment
 
-All Heroes start with a package of [Weapons](), [Armor](), and [Mundane Tools](). They may have:
+All Heroes start with a package of [Weapons]({{ "/equipment_crafting/weapons" | absolute_url }}) ([Listing]({{ "/appendices/weapon_listing" | absolute_url }})), [Armor]({{ "/equipment_crafting/armor" | absolute_url }}) ([Listing]({{ "/appendices/armor_listing" | absolute_url }})), and [Mundane Tools]({{ "/equipment_crafting/tools#mundane-tools" | absolute_url }}). They may have:
 
 - Two Rank 1 Weapons, or a Rank 1 Weapon and two Rank 0 Weapons, or four Rank 0 Weapons.
 - AND, Two Rank 1 Armors, or one Rank 1 Armor and two Rank 1 pieces of Clothing, or four Rank 1 pieces of Clothing.
@@ -157,14 +157,14 @@ Heroes start with a Pack for free, to carry their starting gear and anything els
 | Ammo Pouch  | 1              |
 {: .rtw-table .fixed-columns .centered-second-column  .half-width }
 
-(See the [Pack & Pouches]() section for details.)
+(See the [Pack & Pouches]({{ "/equipment_crafting/pack_pouches" | absolute_url }}) section for details.)
 
 ## Purchasing Feats, Spells, and Techniques
 
 Heroes have **12 additional Tokens to spend on Feats, Spells, and Techniques.**  
 **These Tokens cannot be spent on Traits.**
 
-All [Feats](), [Spells](), and [Techniques]() purchased during Character Creation must each cost 6 Tokens or less, and you must meet their other requirements. (With GM permission, you may begin with one Song, if it fits your character.)
+All [Feats]({{ "/feats_spells_techniques/feats" | absolute_url }}), [Spells]({{ "/feats_spells_techniques/spells" | absolute_url }}), and [Techniques]({{ "/feats_spells_techniques/techniques" | absolute_url }}) purchased during Character Creation must each cost 6 Tokens or less, and you must meet their other requirements. (With GM permission, you may begin with one Song, if it fits your character.)
 
 ### A Note on Rounding Decimals
 

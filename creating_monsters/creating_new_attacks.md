@@ -23,7 +23,7 @@ In some cases, you may want to create a new Technique, Spell, or other special a
 First, consider if an existing attack could simply be tweaked to serve a new purpose. You can change an attack’s Element, inflicted Status, or from a Spell to a Technique (or vice-versa) with little worry.
 
 If that won’t do, however, you can get a feel for the balance of a new attack like so:
-- Start with the number of targets the attack would usually hit when using [Abstract Combat Ranges]().
+- Start with the number of targets the attack would usually hit when using [Abstract Combat Ranges]({{ "/combat_basics/attacking_101#abstract-combat-ranges" | absolute_url }}).
 - Then, multiply by the attack’s damage multiplier. If it’s a Weapon + Combat attack, multiply by 1; if it’s Weapon + (3 x Combat), you multiply by 3, etc.
 - If the attack has additional beneficial effects, such as inflicting a status effect, multiply by 1.25. If it has a downside or can only be used in some circumstances, multiply by 0.9. If both, then do nothing.
 - Finally, divide by Magic or Stamina cost.

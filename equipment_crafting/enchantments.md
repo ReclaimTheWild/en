@@ -22,7 +22,7 @@ Weapons and Armors can be Enchanted with useful magical effects, above and beyon
 
 Enchanting weapons and armor requires access to a Forge. When you apply an Enchantment to a weapon or armor, the Gem used is worked into the item, becoming part and parcel with it.
 
-Each Weapon and Armor can only be given a single Enchantment, with one exception – Weapon Spirits, which can grant their home weapon an additional Enchantment and other effects. See the [Weapon Spirits & Unbreakable Weapons]() section for more.
+Each Weapon and Armor can only be given a single Enchantment, with one exception – Weapon Spirits, which can grant their home weapon an additional Enchantment and other effects. See the [Weapon Spirits & Unbreakable Weapons]({{ "/equipment_crafting/natural_weapons_weapon_spirits" | absolute_url }}) section for more.
 
 **Armors and Weapons can only hold an Enchantment of a Rank up to their own Rank, and you may only craft an Enchantment of a Rank equal to (your base Enchanting / 2), rounded down.**
 
@@ -181,7 +181,7 @@ Any additional mini-shots not used by the end of your turn disappear.
 ### Silvered
 **Uses**: Diamond  
 **Equipment Type**: Any Weapon  
-**Effect**: Foes who are considered a great evil (see [Ancient & Irredeemable Evil]()), or are serving or controlled by a great evil, have a Vulnerability to this weapon. This weapon may also trigger a foe’s Weak Point. (These effects only occur if the foe’s Rank is equal to or less than this Enchantment’s; otherwise, this Enchantment does nothing.)
+**Effect**: Foes who are considered a great evil (see [Ancient & Irredeemable Evil]({{ "/introduction#ancient-irredeemable-evil" | absolute_url }})), or are serving or controlled by a great evil, have a Vulnerability to this weapon. This weapon may also trigger a foe’s Weak Point. (These effects only occur if the foe’s Rank is equal to or less than this Enchantment’s; otherwise, this Enchantment does nothing.)
 
 ### Tracer
 **Uses**: Luminous Stone  

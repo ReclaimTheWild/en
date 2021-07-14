@@ -29,4 +29,4 @@ Tools lose one point of Durability whenever they are used for their intended pur
 
 Since players will be using more Materials over the long run, **the GM should increase the Materials gained from Monsters or resources by 1.**
 
-This rule pairs well with the [Repairing and Upgrading Mundane Weapons]() Assist Mode rule. Using these two rules together help balance their changes against one another, resulting in a fulfilling experience: everything breaks, but everything can be repaired, too. **When these rules are used together, their adjustments to Material gain rates cancel each other out.**
+This rule pairs well with the [Repairing and Upgrading Mundane Weapons]({{ "/assist_mode/repairing_upgrading_mundane_weapons" | absolute_url }}) Assist Mode rule. Using these two rules together help balance their changes against one another, resulting in a fulfilling experience: everything breaks, but everything can be repaired, too. **When these rules are used together, their adjustments to Material gain rates cancel each other out.**

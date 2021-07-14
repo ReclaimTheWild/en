@@ -104,7 +104,7 @@ When you put armor on a Companion that has natural Defense (not from their Race)
 - Increase their Evasion by 1 (because they lost that Defense).
 - Then apply the armor's Defense bonus and Evasion penalty (if any).
 
-You may Enchant Companions’ Natural Weapons. If using [Assist Mode]() rules, you may also upgrade their Natural Weapons.
+You may Enchant Companions’ Natural Weapons. If using [Assist Mode]({{ "/assist_mode" | absolute_url }}) rules, you may also upgrade their Natural Weapons.
 
 ## Companions and Growth
 

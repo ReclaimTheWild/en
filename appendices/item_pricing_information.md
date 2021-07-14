@@ -144,8 +144,8 @@ Weapons made in Crafting Styles that use more or fewer Materials have their pric
 | Elemental Arrow   | When made, select an Element. Any attack<br>made with this Arrow is of that Element. | 25 |
 | Showstopper Arrow | While flying, makes a loud whistling noise<br>and sparkles brightly. Damage as normal. | 25 |
 | Snag Arrow        | When fired into a solid surface, is sturdy enough to<br>act as a handhold. When fired into the ground, acts<br>as a Slightly Slick square. Damage as normal. | 25 |
-| Guardian Arrow    | Counts as an Ancient weapon; see [Guardian Arrows]() | 400 |
-| Silver Arrow      | Effective against great evils; see [Silver Arrows]() | 400 |
+| Guardian Arrow    | Counts as an Ancient weapon; see [Guardian Arrows]({{ "/equiment_crafting/ammunition#guardian-arrows" | absolute_url }}) | 400 |
+| Silver Arrow      | Effective against great evils; see [Silver Arrows]({{ "/equipment_crafting/ammunition#silver-arrows" | absolute_url }}) | 400 |
 {: .rtw-table .centered-third-column }
 
 *Prices for Bombs*

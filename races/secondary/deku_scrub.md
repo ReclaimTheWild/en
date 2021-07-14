@@ -40,7 +40,7 @@ Leaf colors: Brown, Green, Orange, Red
 - You can glide (but not fly) under your own power. So long as you start from grassy terrain, a tree, or a flowering plant, you are a Natural Glider.
 - When you use a Reaction to reduce an attack’s damage, you may ignore all Push, Pull, or Prone effects from it.
 - During any Rest, you may choose to photosynthesize. Doing so restores (base Fortitude / 2) Health, or (base Fortitude) if you rest in direct sunlight. You may choose to photosynthesize 
-regardless of whether you consumed a Dish this Rest. If using [the Hunger rules](), photosynthesis staves off Hunger for that Rest.
+regardless of whether you consumed a Dish this Rest. If using [the Hunger rules]({{ "/master_mode/hunger_staying_fed" | absolute_url }}), photosynthesis staves off Hunger for that Rest.
 
 **Play a Deku Scrub if you want...**
 - ...To be a part of the forest, and live off pure sunlight and fresh water.

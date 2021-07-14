@@ -38,7 +38,7 @@ Hair colors: Any
 **Vulnerability**: Dark  
 **Bonuses**:
 - You can fly and glide under your own power, and are a Natural Flyer. However, walking is strange to you; you are not a Natural Walker.
-- You glow with [light](). You may control the size of this light, from a Burst (Fortitude) down to a Burst 0 (illuminating only yourself and nothing around you). You may also control its Brightness (between Fair, Dim, or shut it off entirely). Changing your glow’s size or brightness is a Minor Action.
+- You glow with [light]({{ "/hazards_recovery/light" | absolute_url }}). You may control the size of this light, from a Burst (Fortitude) down to a Burst 0 (illuminating only yourself and nothing around you). You may also control its Brightness (between Fair, Dim, or shut it off entirely). Changing your glow’s size or brightness is a Minor Action.
 - You may speak with, and understand, Natural creatures of Limited intelligence (like cats, dogs, and horses). This does not mean they automatically want to speak with you, or that they will tell you the truth.
 - You gain one of the following Spells for free: Bubble’s Touch, Fairy’s Light, Rauru’s Shield, or Vanish.
 

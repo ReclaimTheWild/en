@@ -36,7 +36,7 @@ A Hero has the following equipment slots:
 
 **Pack** is the Hero’s inventory, with everything they’re carrying. Items in the Pack cannot be used without first being pulled from the Pack as a Minor Action.
 
-Your Pack has a limited amount of room in it for some kinds of items, such as Weapons and Armor. Be sure to consider increasing the size of your Pack, to help you carry more loot and useful equipment! See the [Inventory: Packs & Pouches]() section for more information.
+Your Pack has a limited amount of room in it for some kinds of items, such as Weapons and Armor. Be sure to consider increasing the size of your Pack, to help you carry more loot and useful equipment! See the [Inventory: Packs & Pouches]({{ "/equipment_crafting/packs_pouches" | absolute_url }}) section for more information.
 
 ## Sheathing and Belt Items
 
@@ -72,6 +72,6 @@ When you fire a Bow or Crossbow (or any weapon that uses ammunition), you may ch
 
 Techniques and Spells do not use arrows, and cannot be affected by special ammo. If a Technique or Spell calls to use a Basic Attack with a Ranged Weapon, however, those Basic Attacks do use arrows.
 
-When Boomerangs (or other Returning weapons) are thrown, you may catch them on the return trip, immediately re-equipping them to the hand they left. If you cannot perform Reactions (such as by being OffBalance), the Boomerang merely lands at your feet, in the square you occupy.
+When Boomerangs (or other Returning weapons) are thrown, you may catch them on the return trip, immediately re-equipping them to the hand they left. If you cannot perform Reactions (such as by being Off-Balance), the Boomerang merely lands at your feet, in the square you occupy.
 
 If you throw a non-Returning weapon, it lands beneath or beside the target, whether the attack hits or misses. If you wish to throw another weapon, you’ll have to go pick it up, or pull another weapon from your Pack.

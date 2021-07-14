@@ -112,7 +112,7 @@ Some things that might be considered tools, like Shovels and Torches, might also
 
 ### **Bedroll**
 *(Cloth)*  
-When you take an Extended Rest using a Bedroll, you restore more of your Health, Stamina, and Magic (see [Rest & Relaxation]()), and gain Temporary Health equal to (Rank x 2). You must be in a dry location, in an area you can survive without aid or armor.
+When you take an Extended Rest using a Bedroll, you restore more of your Health, Stamina, and Magic (see [Rest & Relaxation]({{ "/hazards_recovery/short_extended_rests#rest--relaxation" | absolute_url }})), and gain Temporary Health equal to (Rank x 2). You must be in a dry location, in an area you can survive without aid or armor.
 
 ### **Book, Blank**
 *(Wood)*  
@@ -264,7 +264,7 @@ Similar to Weapons with Spirits in them, Magical Tools will regenerate their Dur
 
 Magical Tools are typically not for sale. If they are, it’s from a single person, and either for a significant price, or in exchange for a favor. More often, Magical Tools are found in dungeons, hidden away in the secret places of the world, in the armories of kings, or in the hands of other adventurers or Heroes.
 
-*Below are some examples of Magical Tools. Of course, GMs should feel free to invent their own! You can also [visit the website to find more additions](), like Magical Tools, new Rules, and even [the Master Sword]()!*
+*Below are some examples of Magical Tools. Of course, GMs should feel free to invent their own! You can also [visit the website to find more additions](https://reclaimthewild.net/index.php/category/homebrew-additions/), like Magical Tools, new Rules, and even [the Master Sword](https://reclaimthewild.net/index.php/2019/02/15/post-idea-master-sword/)!*
 {: .centered }
 
 ### **Hookshot**

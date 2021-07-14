@@ -43,7 +43,7 @@ When a Normal or Heavy enemy is defeated by a Guardian Arrow, they are sucked in
 
 Silver Arrows are especially effective against the forces of evil, and those corrupted by them. Against all others – including those merely deluded, misguided, or doing evil acts for good reasons – they are no more effective than a normal arrow.
 
-Foes who are considered a great evil, or are serving or controlled by a great evil (see [Ancient & Irredeemable Evil]()), have a Vulnerability to Silver Arrows. Silver Arrows may also trigger a Boss or Miniboss’s Weak Point, though that varies from foe to foe.
+Foes who are considered a great evil, or are serving or controlled by a great evil (see [Ancient & Irredeemable Evil]({{ "/introduction#ancient-irredeemable-evil" | absolute_url }})), have a Vulnerability to Silver Arrows. Silver Arrows may also trigger a Boss or Miniboss’s Weak Point, though that varies from foe to foe.
 
 Be sure to speak to your GM (or use the Learn Lore Maneuver!) to know whether a Silver Arrow’s evil-slaying power might be applied against your foes!
 

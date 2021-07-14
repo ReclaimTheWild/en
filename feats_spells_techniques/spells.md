@@ -264,7 +264,7 @@ The caster may dismiss the block as a Free Action, returning the bound Magic. Yo
 **Range**: 1 metallic target within 8 squares  
 **Effect**: You may move a single metallic creature or object in a direction you choose: up, down, side to side, towards or away from you. The object must stay within the spell’s range, or it immediately falls to the ground. Your magnetic grip on the object lasts until the start of your next turn; you may then re-cast Magnesis again to keep your magnetic grip uninterrupted.
 
-To determine how heavy an object you can move, calculate [your 2h Lifting capacity](), using Willpower instead of Athletics. If the object’s weight is less than your “2h Burdened” weight, you may move it up to 3 squares; if it’s less than your “2h Easy” weight, you may move it up to 6 squares.
+To determine how heavy an object you can move, calculate [your 2h Lifting capacity]({{ "/character_traits#lifting" | absolute_url }}), using Willpower instead of Athletics. If the object’s weight is less than your “2h Burdened” weight, you may move it up to 3 squares; if it’s less than your “2h Easy” weight, you may move it up to 6 squares.
 
 Magnesis is a spell with lots of potential uses. Below are some common examples!
 - If you attempt to slow down a creature wearing metal armor, Roll To-Hit target’s Vitality; on success, the creature is Slowed until the end of their next turn.

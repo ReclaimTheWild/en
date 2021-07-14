@@ -31,7 +31,7 @@ When you use Materials to craft, you can always substitute a higher-rank Materia
 You can often take weapons from your defeated foes (or steal them out from under their noses, if you’re quiet enough).  
 Weapons have no worries about proper sizing – a tiny Fairy Hero can wield a massive Lynel’s weapon just fine.
 
-Even if you have no intention of wielding the weapons and armor you take from foes, you can deconstruct it. This destroys the item, but yields some of the Materials used to make it. See the [Deconstructing Equipment]() section for more information.
+Even if you have no intention of wielding the weapons and armor you take from foes, you can deconstruct it. This destroys the item, but yields some of the Materials used to make it. See the [Deconstructing Equipment]({{ "/equipment_crafting/deconstructing_equipment" | absolute_url }}) section for more information.
 
 ## Material Types
 

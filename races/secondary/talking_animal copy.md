@@ -37,7 +37,7 @@ Hair colors: Orange, Red, Yellow
 **Vulnerability**: Light  
 **Bonuses**:
 - You may move through an enemy’s space as though it were Difficult Terrain, and through Swarms as normal terrain. You may only do this if the foe is in Dim Light or Total Darkness. You can’t end your move in a foe’s space.
-- You have two additional [Belt Slots](). Items in these slots are in magical storage, and cannot be removed or detected by mundane means. (Such items do not have this protection when In-Hand.)
+- You have two additional [Belt Slots]({{ "/arming_yourself#sheathing-and-belt-items" | absolute_url }}). Items in these slots are in magical storage, and cannot be removed or detected by mundane means. (Such items do not have this protection when In-Hand.)
 - With your bright, glowing eyes, you can see just as well in the dark as in the light. In addition, when Blinded, you are merely Dazzled instead.
 - You gain the *Twili Transit* Spell.
 - You gain one of the following Spells for free: Bubble’s Touch, Impa’s Disguise, Sol’s Gleam, Vanish, or Wrath’s Whip.

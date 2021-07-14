@@ -16,9 +16,9 @@ Resistances to a damage type come in Ranks; every Rank of Resistance reduces the
 
 Generally, Monsters should not have both a Resistance and a Vulnerability to the same type of damage (except for the rare case where a Monster is aware of their weakness, and has taken steps to shore it up).
 
-For more on Resistance, see [Status Effects]().
+For more on Resistance, see [Status Effects]({{ "/hazards_recovery/status_effects" | absolute_url }}).
 
-For more on Vulnerability, see [Vulnerability]().
+For more on Vulnerability, see [Vulnerability]({{ "/combat_basics/attacking_101#vulnerability" | absolute_url }}).
 
 A note for Swarms: Each Rank of Resistance reduces the number of squares destroyed by 1 (minimum 1). Attacks the Swarm has a Vulnerability to destroy an additional square of the Swarm. If the Swarm has both, divide the Rank of Resistance by 2.
 
