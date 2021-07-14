@@ -91,7 +91,7 @@ Once you’ve made your weapon, you may also describe and name it, if you like!
 | Spear      | 4   | -1  | +1  | Piercing  | 2     | Melee  | Long, Sweeping |
 | Staff      | 2   | +1  | +1  | Blunt     | 2     | Arcane | Wizardly       |
 | Sword      | 3   | +0  | +0  | Sharp     | 1     | Melee  |                |
-{: .rtw-table .fixed-columns-100 }
+{: .rtw-table .fixed-columns-100 .centered-bold }
 
 *All types of Weapons may be Thrown.*
 
