@@ -4,6 +4,7 @@ title: Creature builder
 summary: An online tool to easily create creature tables that can be added to the wiki.
 permalink: /web_tools/creature_builder
 parent: Web Tools
+nav_order: 1
 ---
 
 #### Head:
