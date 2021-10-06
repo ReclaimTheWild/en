@@ -75,8 +75,6 @@ last_edit_time_format: "%b %e %Y at %I:%M %p"
 back_to_top: true
 back_to_top_text: "Back to top"
 
-nav_sort: "case_insensitive"
-
 exclude:
   - tag/TAG.md
   - contributor/CONTRIBUTOR.md
