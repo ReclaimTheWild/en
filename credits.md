@@ -18,10 +18,9 @@ Please send comments, feedback, and concerns to [ReclaimTheWildTabletop@GMail.co
 
 **Fonts** used: [Hylia Serif](http://artsyomni.com/hyliaserif) (headers) and [Calamity Sans](https://www.reddit.com/r/zelda/comments/5txuba/breath_of_the_wild_ui_font/) (body text).
 
-**Mike would like to thank**: Chelsea, for your unending support and patience; Kaorin Sakura, for showing this can be done; the Pokémon Tabletop community, for being my home for years and 
-years – and the Returners’ Final Fantasy Tabletop community, for being my home before that.
+**Mike would like to thank**: Chelsea, for your unending support and patience; Kaorin Sakura, for showing this can be done; the Pokémon Tabletop community, for being my home for years and years – and the Returners’ Final Fantasy Tabletop community, for being my home before that.
 
-**The Legend of Zelda** and all associated properties are owned by Nintendo. This book is a freelydistributed system made by fans, for fans, of both tabletop games and of The Legend of Zelda.  
+**The Legend of Zelda** and all associated properties are owned by Nintendo. This book is a freely-distributed system made by fans, for fans, of both tabletop games and of The Legend of Zelda.  
 Please support Nintendo’s official releases!
 
 **Version** 2.03; June 2021
