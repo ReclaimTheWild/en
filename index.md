@@ -9,7 +9,8 @@ nav_order: 1
 
 Welcome to the mirror of Reclaim the Wild's ruleset !
 
-[Rebuild the Wild System Reference Document](https://reclaimthewild.github.io/rebuild-en/)  
-***Ravage the Wild** System Reference Document* coming soon.
+[Rebuild the Wild System Reference Document](https://reclaimthewild.github.io/rebuild-en/)
+
+[Ravage the Wild System Reference Document](https://reclaimthewild.github.io/ravage-en/)
 
 Updated to: ***Reclaim the Wild v2.03***
