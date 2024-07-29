@@ -469,3 +469,4 @@ Magnesis is a spell with lots of potential uses. Below are some common examples!
 **Cost**: 3 Magic  
 **Range**: Projectile 8  
 **Damage**: Weapon + Willpower, Fire
+

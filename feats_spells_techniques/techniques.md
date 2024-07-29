@@ -303,7 +303,7 @@ nav_order: 2
 ### Serpent’s Fangs
 3 Tokens  
 **Cost**: 6 Stamina  
-**Use Requirement**: Wielding two onehanded Weapons (one in each hand)  
+**Use Requirement**: Wielding two one-handed Weapons (one in each hand)  
 **Range**: Weapon  
 **Effect**: Make two separate Basic Attacks of your choice against a single foe, each using a different hand’s weapon. If both attacks hit, your second hit deals additional damage equal to either your Combat or Willpower (whichever the second Basic Attack uses).
 
@@ -369,7 +369,7 @@ nav_order: 2
 ### Two against One
 6 Tokens  
 **Cost**: 6 Stamina  
-**Use Requirement**: Wielding two nonDefensive Weapons (one in each hand); struck by an attack you could Parry (typically Line, Melee, or Sweep attacks)  
+**Use Requirement**: Wielding two non-Defensive Weapons (one in each hand); struck by an attack you could Parry (typically Line, Melee, or Sweep attacks)  
 **Range**: Weapon  
 *Reaction*  
 **Effect**: Reduce the damage received by 50%, after applying Defense. Using your other weapon, make a Basic Attack against the foe that triggered this Technique.

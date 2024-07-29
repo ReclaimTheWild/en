@@ -26,7 +26,7 @@ nav_order: 1
 ### Animal’s Arsenal
 6 Tokens  
 **Learn Requirement**: Talking Animal, “Armed” feature  
-**Effect**: You may gain either a second onehanded Rank 1 Natural Talking Animal-style weapon, or change your Natural weapon into a two-handed weapon (keeping its Rank).
+**Effect**: You may gain either a second one-handed Rank 1 Natural Talking Animal-style weapon, or change your Natural weapon into a two-handed weapon (keeping its Rank).
 
 ### Animal’s Heritage
 6 Tokens  
@@ -336,7 +336,7 @@ This Fairy Friend does not count towards your normal limit on Companions. This F
 ### Specialist
 3 Tokens  
 **Learn Requirement**: Chosen Trait at 3  
-**Effect**: Select a specific non-combat, noncrafting use of a Trait. This use must have a condition to it, such as “using Influence on Shopkeepers”, “using Athletics to lift heavy things”, or “using Civilization to know about Zora culture”. You have a Knack for using that Trait in that way.  
+**Effect**: Select a specific non-combat, non-crafting use of a Trait. This use must have a condition to it, such as “using Influence on Shopkeepers”, “using Athletics to lift heavy things”, or “using Civilization to know about Zora culture”. You have a Knack for using that Trait in that way.  
 **Special**: This can be chosen multiple times, each time selecting a different use of a Trait. 
 
 ### Strange Chef
@@ -394,3 +394,4 @@ This Fairy Friend does not count towards your normal limit on Companions. This F
 6 Tokens  
 **Learn Requirement**: Athletics 6, Zora  
 **Effect**: You may swim up waterfalls as if they were Difficult Terrain. While submerged in water, you and anyone who follows directly behind you may ignore all currents that would forcibly move you.
+
