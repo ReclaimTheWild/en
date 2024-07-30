@@ -24,8 +24,8 @@ When a Spell says its cost is (Willpower) Magic, you may choose to spend less th
 
 ### Bari’s Coat
 3 Tokens  
-**Cost: 6 Magic (Bind)  
-**Range: Self  
+**Cost**: 6 Magic (Bind)  
+**Range**: Self  
 *Minor Action*  
 **Effect**: You are Electrified. If a foe takes damage from striking you with a metallic weapon while you are Electrified, you may perform the following Reaction: Burn the Magic Bound in this spell (ending the Electrified status) to immediately attempt a Disarm Maneuver against the foe. This Disarm attempt must target the metallic weapon that struck you.
 
