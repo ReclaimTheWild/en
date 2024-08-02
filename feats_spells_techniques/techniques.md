@@ -54,7 +54,7 @@ nav_order: 2
 
 ### Body Check
 6 Tokens
-**Cost: 3 Stamina
+**Cost**: 3 Stamina
 **Use Requirement**: A foe leaves a square you are adjacent to.
 **Range**: Special
 *Reaction*
