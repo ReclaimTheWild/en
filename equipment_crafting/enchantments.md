@@ -197,7 +197,7 @@ Remember that Boosted Traits from Armor Enchantments, Dishes, and Elixirs all st
 | Type Prefix | Added Bonus Effect |
 |-------------|--------------------|
 | Commanding  | Increases Command, Influence, and Intimidate |
-| Eye-Opening | Increases Percetion                          |
+| Eye-Opening | Increases Perception                          |
 | Fortified   | Increases Fortitude and Discipline           |
 | Mighty      | Increases Combat and Willpower               |
 | Musical     | Increases Perform                            |
